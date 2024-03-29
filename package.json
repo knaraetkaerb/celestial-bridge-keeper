@@ -1,0 +1,31 @@
+{
+  "name": "celestial-bridge-keeper",
+  "version": "1.0.0",
+  "description": "Keeps watch over celestial bridges, ensuring safe passage and communication between different realms.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/celestial-bridge-keeper"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "sigma-veil-discoverer": "1.0.0",
+    "prism-cloud-harvester": "1.0.0",
+    "ejs": "1.0.0",
+    "enzyme": "1.0.0",
+    "react": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "moment": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "nodemon": "1.0.0",
+    "cors": "1.0.0",
+    "debug": "1.0.0",
+    "mocha": "1.0.0"
+  }
+}
